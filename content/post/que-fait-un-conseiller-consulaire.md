@@ -22,3 +22,5 @@ C’est en fait une mission relativement nouvelle, qui reste encore à définir 
 
  <h3 style="text-align: center;">Alors, RDV le 24 juin ? </h3>
  Vous avez des questions ? N’hésitez pas à me contacter !
+
+ {{< figure src="/images/QR_M2HM-Background.PNG" title="Suivez-moi sur Wechat !">}}
