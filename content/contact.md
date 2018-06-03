@@ -8,7 +8,8 @@ weight: 6
 ---
 
 
-Vous pouvez contacter Marie-Hélène en scannant le QR-Code ci-dessous:
+Vous pouvez contacter Marie-Hélène en scannant le QR-Code ci-dessous dans Wechat:
 
 
- <img src="/images/QR_M2HM.PNG" alt="QR-Code"> 
+ <img src="/images/QR_M2HM-Background.PNG" alt="QR-Code"> 
+
