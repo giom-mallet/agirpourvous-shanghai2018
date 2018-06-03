@@ -15,9 +15,9 @@ Comme beaucoup de femmes d’aujourd’hui, j’endosse plusieurs rôles : mère
 
 C’est ce parcours aux multiples facettes qui me permet de connaître et de comprendre la réalité et <b>la diversité des situations</b> des français de Shanghai.
 
-En 2017, j’ai décidé de rejoindre <b><i>La République en Marche !</i></b> à Shanghai. En phase avec la transformation du pays engagée par Emmanuel Macron, j’ai choisi de m’impliquer davantage politiquement. Je veux <b>agir concrètement</b> et faire fi des frontières imposées par les partis traditionnels.
+En 2017, j’ai décidé de rejoindre <b><i>La République en Marche!</i></b> à Shanghai. En phase avec la transformation du pays engagée par Emmanuel Macron, j’ai choisi de m’impliquer davantage politiquement. Je veux <b>agir concrètement</b> et faire fi des frontières imposées par les partis traditionnels.
 
-Je suis ainsi heureuse d’être la candidate de <b><i>La République en Marche !</i></b> pour cette élection. 
+Je suis ainsi heureuse d’être la candidate de <b><i>La République en Marche!</i></b> pour cette élection. 
 
 En devenant Conseillère Consulaire, mon ambition est de <b>rassembler ma communauté</b> et d’agir pour faciliter la vie de mes compatriotes vivant à Shanghai. Mon rôle sera d’être une élue de proximité et de travailler avec tous ceux qui le souhaitent afin de trouver des <b>solutions pragmatiques</b> aux problèmes quotidiens.
 
