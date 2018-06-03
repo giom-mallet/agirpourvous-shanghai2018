@@ -21,3 +21,5 @@ Marie-Hélène Hirtz-Martin est aujourd’hui la candidate de La République en 
 En devenant Conseillère Consulaire, elle s’est donnée pour mission de faire entendre, sans détour, la voix des français de Shanghai. Elle sera une élue de proximité et travaillera avec tous à trouver des solutions pragmatiques aux problèmes quotidiens.
 
 Avec ambition et détermination, Marie-Hélène Hirtz-Martin, avec  le soutien de son remplaçant Sébastien Lize, se présente à l’élection partielle du dimanche 24 juin 2018 pour devenir la Conseillère Consulaire au service de la communauté.
+
+{{< figure src="/images/Logo-LaRepubliqueEnMarche-noir.png">}}
