@@ -1,4 +1,4 @@
-title = "Campagne Marie-Helene 2018"
+title = "Agir pour vous!"
 baseURL = "http://agirpourvous-shanghai2018.fr"
 languageCode = "fr-fr"
 theme = "ananke"
@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = ""
   facebook = ""
   twitter = ""
   instagram = ""

@@ -2,6 +2,7 @@
 title: "A propos"
 description: "Qui est votre candidate ?"
 featured_image: '/images/Officielle-Affiche.jpg'
+weight: 1
 ---
 
 {{< figure src="/images/Officielle-Affiche.jpg" title="Marie-Hélène HIRTZ-MARTIN">}}
