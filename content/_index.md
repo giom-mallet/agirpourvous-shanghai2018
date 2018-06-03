@@ -9,4 +9,4 @@ Remplaçant: Sébastien LIZE
 
 <h2>Candidate à l'élection consulaire Partielle du 24 Juin 2018</h2>
 
-{{< figure src="/images/Officielle-Affiche.jpg" title="Marie-Hélène HIRTZ-MARTIN">}}
+{{< figure src="/images/Affiche.jpg" title="Marie-Hélène HIRTZ-MARTIN">}}
