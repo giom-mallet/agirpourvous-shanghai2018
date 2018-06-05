@@ -18,7 +18,7 @@ Le 24 juin prochain, vous allez choisir celui ou celle qui deviendra conseiller 
  
 Le conseiller consulaire est votre élu de proximité, qui est à votre écoute et joignable pour toute question ou difficulté. Il est aussi le lien très utile entre vous et les parlementaires, entre vous et toutes les instances compétentes sur les sujets des Français à l’étranger.  
  
-Pour relever ce défi, j’ai toute confiance en Marie-Hélène HIRTZ-MARTIN et son remplaçant1 Sébastien LIZE. Grâce à la richesse de leurs parcours respectifs, je sais qu’ils sauront être d’excellents relais de terrain.  
+Pour relever ce défi, j’ai toute confiance en Marie-Hélène HIRTZ-MARTIN et son remplaçant Sébastien LIZE. Grâce à la richesse de leurs parcours respectifs, je sais qu’ils sauront être d’excellents relais de terrain.  
  
 Nous partageons les mêmes valeurs qui nous ont conduits à participer au renouveau démocratique de notre pays au sein du mouvement de La République En Marche !.  
  
