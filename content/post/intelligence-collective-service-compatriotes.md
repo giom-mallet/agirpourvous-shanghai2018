@@ -2,7 +2,7 @@
 title: " L’intelligence collective au service de nos compatriotes"
 date: 2018-06-04T12:20:44+08:00
 featured_image: "/images/event-marcheurs-3.jpg"
-tags: ["Rencontre"]
+tags: ["Rencontre","idées"]
 ---
 
 {{< figure src="/images/event-marcheurs-3.jpg" title="Chez En Marche, le samedi a été studieux.">}}
