@@ -28,4 +28,4 @@ enableRobotsTXT = true
   background_color_class = "bg-blue"
   featured_image = "/images/officielle-Programme.jpg"
   recent_posts_number = 6
-  body_classes = "roboto bg-near-white"
+  #body_classes = "avenir bg-near-white"
