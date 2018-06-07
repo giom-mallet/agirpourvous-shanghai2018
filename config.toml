@@ -7,7 +7,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+googleAnalytics = "UA-120520290-1"
 enableRobotsTXT = true
 
 [sitemap]
@@ -28,3 +28,4 @@ enableRobotsTXT = true
   background_color_class = "bg-blue"
   featured_image = "/images/officielle-Programme.jpg"
   recent_posts_number = 6
+  body_classes = "roboto bg-near-white"
