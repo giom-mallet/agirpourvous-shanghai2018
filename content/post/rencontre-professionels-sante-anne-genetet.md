@@ -1,7 +1,7 @@
 ---
 title: "La santé au coeur de nos préoccupations"
 description: "Trouver ensemble des solutions aux problématiques rencontrées dans le secteur médical à Shanghai"
-date: 2018-06-08T06:45:52+08:00
+date: 2018-06-09T06:45:52+08:00
 draft: true
 featured_image: "/images/pro-sante-1.PNG"
 tags: ["Soutien","idées"]
@@ -10,7 +10,7 @@ tags: ["Soutien","idées"]
 {{< figure src="/images/pro-sante-1.PNG" title="Trouver ensemble des solutions aux problématiques rencontrées dans le secteur médical à Shanghai">}}
 
 
-C’est à cet appel qu’ont répondu jeudi 7 juin cinq professionnels du soin ainsi qu’Anne GENETET, députée des Français de l’étranger.
+C’est à cet appel qu’ont répondu cinq professionnels du soin ainsi qu’Anne GENETET, députée des Français de l’étranger.
 
 Ensemble, nous avons discuté des problématiques rencontrées par nos compatriotes:
 
