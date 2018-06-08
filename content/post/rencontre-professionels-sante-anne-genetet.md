@@ -21,11 +21,13 @@ Ensemble, nous avons discuté des problématiques rencontrées par nos compatrio
 
  Autant de chantiers autour de la santé à l’étranger qui me tiennent à cœur et sur lesquels j’aimerais faire avancer notre communauté, notamment par le biais de la prévention. 
 
-J’ai eu le plaisir de discuter avec des **personnes engagées et volontaires** qui connaissent les **réalités du terrain** et ont à cœur d’améliorer et de **faciliter la vie** de nos compatriotes.
+J’ai eu le plaisir de discuter avec des **personnes engagées et volontaires** qui connaissent les **réalités du terrain** et ont à cœur d’améliorer et de **faciliter la vie** de nos compatriotes. Ces rencontres résonnent avec l'expérience des dernières années que j'ai passé dans le milieu associatif à Shanghai au service des autres. 
 
-Ces **échanges constructifs** ont initié aujourd’hui la constitution d’un **groupe de travail** sur ces problématiques.
+Ces **échanges constructifs** ont initié aujourd’hui la constitution d’un **groupe de travail** sur ces problématiques, qui sera bien sûr ouvert à tous les professionels de santé volontaires pour nous rejoindre.
 
-En devenant Conseillère consulaire, l’une de mes priorités sera de faire avancer ce dossier avec ce groupe de travail en collaboration avec notre députée afin d’arriver à **légiférer** sur la question de la couverture médicale.
+Par ailleurs, nous avons fait le constat qu'aujourd'hui une proportion bien trop élevée de nos compatriotes ne bénéficient d'aucune couverture santé. Cela les expose a des situations très dangereuses en cas d'accidents, ou de maladies graves. 
+
+En devenant Conseillère consulaire, l’une de mes priorités sera de faire avancer ce dossier avec ce groupe de travail en collaboration avec notre députée afin d’arriver à **légiférer** sur la question de la couverture médicale minimale des Français établis à l'étranger.
  
 {{< figure src="/images/pro-sante-2.PNG">}}
 
