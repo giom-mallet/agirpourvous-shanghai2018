@@ -3,9 +3,10 @@ title: "Weekend des 9 et 10 Juin"
 date: 2018-06-10T20:48:06+08:00
 featured_image: "images/weekend910/bracelets.jpg"
 description: "Un superbe week-end riche en rencontres, en réflexion et en émotions"
+tags: ["Rencontre"]
 ---
 
-Ce week-end riche d'enseignements a démarré sur trois Tables Rondes regroupant des acteurs et experts sur des sujets extrêmement importants pour les Français de l'étrangers. Les discussions furent riches d'enseignements, et j'en tirerai des propositions pour notre communauté dans les jours à venir. 
+Ce week-end riche d'enseignements a démarré sur trois Tables Rondes regroupant des acteurs et experts sur des sujets extrêmement importants pour les Français de l'étranger. Les discussions furent riches d'enseignements, et j'en tirerai des propositions pour notre communauté dans les jours à venir. 
 
 {{< figure src="/images/weekend910/table-ronde-entrepreneurs.jpg" title="Table ronde sur les Entreprises">}}
 {{< figure src="/images/weekend910/table-ronde-associations.jpg" title="Table ronde sur les Associations">}}
