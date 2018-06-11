@@ -3,6 +3,7 @@ title: "Table Ronde: « entreprendre  à Shanghai»"
 description: "Quels problèmes ? Quelles solutions ?"
 date: 2018-06-11T21:33:08+08:00
 featured_image: "/images/entreprendre-1.jpg"
+tags: ["idées"]
 ---
 
 Ce samedi 9 Juin j’ai réuni une table ronde autour du thème « entreprendre » en compagnie de nombreux acteurs impliqués dans la vie économique shanghaienne et d’**Anne Genetet**, notre députée des Français établis hors de France. 
@@ -28,6 +29,7 @@ Favoriser les jeunes
 Durant mes entretiens avec nos concitoyens Samedi, j’ai entendu leurs craintes face à une dévalorisation de l’artisanat français, des difficultés de nos entreprises de petite taille à recruter du personnel français et leurs inquiétudes au sujet de la formation.
 
 Sur ces sujets je m’engage à : 
+
 -   **Favoriser les échanges d’informations à la fois fiables et à jour** concernant les problématiques d’obtention des visas. 
 -   **Faire remonter l’intérêt de nos compatriotes entrepreneurs** pour des initiatives favorisant les études des jeunes à l’étranger (sur un modèle similaire a celui de Campus France par exemple) ou de type Erasmus Professionnel pour les stagiaires.
 
