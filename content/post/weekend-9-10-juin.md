@@ -1,5 +1,5 @@
 ---
-title: "Weekend des 9 et 10 Juin"
+title: "Week-end des 9 et 10 Juin"
 date: 2018-06-10T20:48:06+08:00
 featured_image: "images/weekend910/bracelets.jpg"
 description: "Un superbe week-end riche en rencontres, en réflexion et en émotions"
@@ -12,7 +12,7 @@ Ce week-end riche d'enseignements a démarré sur trois Tables Rondes regroupant
 {{< figure src="/images/weekend910/table-ronde-associations.jpg" title="Table ronde sur les Associations">}}
 {{< figure src="/images/weekend910/table-ronde-education.jpg" title="Table ronde sur l'éducation">}}
 
-Nous avons enchaîné sur une soirée de campagne où j'ai eu le plaisir de rencontrer un grand nombre d'entre vous. merci encore d'avoir fait de cette soirée un succès. 
+Nous avons enchaîné sur une soirée de campagne où j'ai eu le plaisir de rencontrer un grand nombre d'entre vous. Merci encore d'avoir fait de cette soirée un succès. 
 
 {{< figure src="/images/weekend910/soiree-samedi-3.jpg">}}
 {{< figure src="/images/weekend910/soiree-samedi-4.jpg">}}
@@ -24,6 +24,6 @@ Enfin le dimanche a été l'occasion d'un brunch en compagnie de Marcheurs venus
 {{< figure src="/images/weekend910/brunch-2.jpg">}}
 {{< figure src="/images/weekend910/brunch.jpg">}}
 
-Merci a toutes et tous! De Chine, du Japon, de Corée, du Vietnam, d'Inde de France et d'ailleurs, pour votre soutien! Oui ce week end, il y a eu de grands moments d'échanges et d'enthousiasme pour cette candidature, continuons avec cette énergie jusqu'au 24 juin! 
+Merci à toutes et tous! De Chine, du Japon, de Corée, du Vietnam, d'Inde de France et d'ailleurs, pour votre soutien! Oui ce week-end, il y a eu de grands moments d'échanges et d'enthousiasme pour cette candidature, continuons avec cette énergie jusqu'au 24 juin! 
 
 <h2 style="text-align: center;">  Marchons Ensemble ! </h2>
