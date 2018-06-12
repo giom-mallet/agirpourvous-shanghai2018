@@ -6,6 +6,8 @@ featured_image: "/images/entreprendre-1.jpg"
 tags: ["idées"]
 ---
 
+*Modifié le 12 Juin 2018: Suite aux retours de nos participants, modification du paragraphe sur les VIE.*
+
 Ce samedi 9 Juin j’ai réuni une table ronde autour du thème **entreprendre** en compagnie de nombreux acteurs impliqués dans la vie économique shanghaienne et d’**Anne Genetet**, notre députée des Français établis hors de France. 
 
 {{< figure src="/images/entreprendre-1.jpg">}}
@@ -36,7 +38,7 @@ Sur ces sujets je m’engage à :
 Forte de mon expérience dans le monde de la formation, je serai une conseillère consulaire plus à même de comprendre vos problématiques à ce sujet. 
 
 
-Par ailleurs, j’ai entendu vos préoccupations concernant **les faibles indemnités des VIE** par rapport au coût de la vie à Shanghai, la précarité de leur situation en termes d’**assurance santé** ainsi que la situation parfois compliquée des suiveurs d’expatriés (Difficultés à s’adapter au pays d’accueil). **Je m’engage une fois élue à remonter ces préoccupations et à faire tout mon possible pour y trouver des solutions**.
+Par ailleurs, j’ai entendu vos préoccupations concernant **le besoin de réévaluation des indemnités des VIE** par rapport au coût de la vie à Shanghai, la précarité de cetains travailleurs en termes d’**assurance santé** ainsi que la situation parfois compliquée des suiveurs d’expatriés (Difficultés à s’adapter au pays d’accueil). **Je m’engage une fois élue à remonter ces préoccupations et à faire tout mon possible pour y trouver des solutions**.
 
 Mon équipe et moi-même restons à votre écoute pour toute question.
 
