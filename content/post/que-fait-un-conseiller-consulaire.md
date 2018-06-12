@@ -2,6 +2,7 @@
 title: "Qu'est-ce qu'un conseiller consulaire ?"
 date: 2018-06-03T20:26:34+08:00
 featured_image: "/images/j-20.jpg"
+tags: ["Information"]
 ---
  
 {{< figure src="/images/j-20.jpg">}}
