@@ -44,4 +44,4 @@ Mon équipe et moi-même restons à votre écoute pour toute question.
 
 <h2 style="text-align: center;">  Marchons Ensemble ! </h2>
 
-Marie-Hélène HIRTZ-MARTIN
+{{< figure src="/images/signature.png">}}

@@ -32,7 +32,8 @@ A ceux qui disent que ces élections ne comptent pas, **répondez que notre dém
 
 
 <h2 style="text-align: center;">  Marchons Ensemble ! </h2>
-Marie-Hélène HIRTZ-MARTIN
+
+{{< figure src="/images/signature.png">}}
 
 Pour résumer : 
 -------

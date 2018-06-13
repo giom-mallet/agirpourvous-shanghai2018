@@ -20,4 +20,6 @@ Nous avons débattu, échangé nos idées et construit des solutions. Parce que 
 Nous avons besoin de toutes les bonnes volontés pour trouver ensemble des solutions. C’est ainsi que je veux travailler : 
 <h3 style="text-align: center;">Pour vous tous, avec vous tous !</h3>
 
+{{< figure src="/images/signature.png">}}
+
 {{< figure src="/images/event-marcheurs-1.jpg">}}

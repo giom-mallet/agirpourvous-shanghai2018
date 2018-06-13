@@ -38,4 +38,5 @@ Rendez-vous dans les urnes le 24 juin prochain !
 **AGIR POUR VOUS**
 
 Marchons ensemble, 
-Marie-Hélène HIRTZ-MARTIN 
+
+{{< figure src="/images/signature.png">}}

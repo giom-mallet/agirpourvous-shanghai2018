@@ -27,3 +27,5 @@ Enfin le dimanche a été l'occasion d'un brunch en compagnie de Marcheurs venus
 Merci à toutes et tous! De Chine, du Japon, de Corée, du Vietnam, d'Inde de France et d'ailleurs, pour votre soutien! Oui ce week-end, il y a eu de grands moments d'échanges et d'enthousiasme pour cette candidature, continuons avec cette énergie jusqu'au 24 juin! 
 
 <h2 style="text-align: center;">  Marchons Ensemble ! </h2>
+
+{{< figure src="/images/signature.png">}}
