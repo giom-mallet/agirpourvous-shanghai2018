@@ -4,6 +4,7 @@ description: "Les retours de notre Table Ronde"
 draft: "true"
 date: 2018-06-13T18:48:07+08:00
 featured_image: "/images/education-3.jpg"
+tags: ["Rencontre","idées"]
 ---
 
 Marie-Hélène et Sébastien, autour de la table avec Anne Genetet, notre députée, Richard Yung, Sénateur des Français de l’Etranger ont **ouvert le dialogue** avec des parents, des professeurs, des étudiants, pour écouter et échanger sur **l’éducation dans la région de Shanghai**.
