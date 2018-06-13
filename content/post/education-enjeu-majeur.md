@@ -1,8 +1,7 @@
 ---
 title: "Education : Pour que chaque enfant trouve sa place"
 description: "Un enjeu majeur "
-draft: "true"
-date: 2018-06-13T18:48:07+08:00
+date: 2018-06-13T18:50:07+08:00
 featured_image: "/images/education-titre.jpg"
 tags: ["Rencontre","idées"]
 ---
@@ -12,7 +11,7 @@ Un enjeu majeur
 
 L’éducation est un sujet qui touche la plupart d’entre nous, Français de Shanghai et sa région, un **sujet crucial mais complexe et très sensible**, qui cristallise nos inquiétudes sur **l’avenir de nos enfants**, leur réussite et, quelque part, leur bonheur futur. 
 
-Nous avons donc pleinement conscience de l’enjeu de cette question délicate et c’est **avec humilité** que nous souhaitons l’aborder, pour pouvoir **poser sereinement un diagnostic** sur un sujet aux multiples facettes.
+Sébastien et moi avons pleinement conscience de l’enjeu de cette question délicate et c’est **avec humilité** que nous souhaitons l’aborder, pour pouvoir **poser sereinement un diagnostic** sur un sujet aux multiples facettes.
 
 Samedi dernier, c’est avec **Anne Genetet, notre députée**, et **Richard Yung, Sénateur des Français de l’Etranger**, que nous avons reçu **parents, professeurs, étudiants**, pour écouter et échanger sur l’éducation dans la région de Shanghai.
 
@@ -26,7 +25,7 @@ De ces rencontres ressortent **plusieurs constats** :
 
 {{< figure src="/images/education-2.jpg">}}
 
-Voilà donc **l’état des lieux** que nous avons dressés ensemble, modestement. Notre mission ne fait que commencer, et si vous nous faites confiance le 24 juin, **nous nous engageons à continuer ce dialogue avec vous**, et à transmettre les besoins de notre communauté à Anne Genetet et à Richard Yung, sénateur et administrateur de l’AEFE (Agence pour l’Enseignement du Français à l’Etranger). 
+Voilà donc **l’état des lieux** que nous avons dressé ensemble, modestement. Notre mission ne fait que commencer. Et si vous nous faites confiance le 24 juin, **nous nous engageons à continuer ce dialogue avec vous** et à transmettre les besoins de notre communauté à Anne Genetet et à Richard Yung, sénateur et administrateur de l’AEFE (Agence pour l’Enseignement Français à l’Etranger). 
 
 *Y a-t-il des sujets éducatifs que vous souhaitez proposer ? Connaissez-vous des exemples d’expérimentations éducatives qui fonctionnent bien, à Shanghai ou ailleurs, pour vos enfants ? N’ayons pas peur d’être créatifs – l’éducation, c’est l’affaire de toutes les familles, quelles qu’elles soient ! C’est ensemble que nous pouvons créer de nouveaux modèles d’école pour nos enfants ! N’hésitez pas à venir m’en parler !*
 
