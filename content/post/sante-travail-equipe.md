@@ -1,5 +1,5 @@
 ---
-title: "La santé: Un travail d'équipe"
+title: "La santé : Un travail d'équipe"
 description: "Informer et Innover, je m'y engage"
 date: 2018-06-14T19:33:01+08:00
 draft: true
@@ -15,7 +15,7 @@ Une expérience tirée de mon réseau
 
 Depuis mon arrivée, je rencontre régulièrement des professionnels de santé français, chinois ou étrangers, à même de comprendre au mieux les problématiques très spécifiques de nos concitoyens vivant à Shanghai. **Beaucoup d’entre eux m’ont rejoint dans ma campagne**. D’autres le feront certainement. Je les remercie pour leur confiance.
 
-Psychologues, pédiatres, généralistes, responsables d’association, patients et parents, tous m’apportent une approche **centrée sur l’humain**, bien loin de la réalité de quelques conférenciers assureurs dont le premier des objectifs est le profit.
+Psychologues, ostéopathe, chiropracteur, responsable d’association des troubles de l’apprentissage, patients et parents, tous m’apportent une approche **centrée sur l’humain**, bien loin de la réalité de quelques conférenciers assureurs dont le premier des objectifs est le profit.
 Bien entendu, l’assurance est un **acteur essentiel de notre protection sociale à l’étranger**. Je ne le répéterai jamais assez : assurez-vous ! Mais la première de mes batailles est la prévention, l’information.
 
 {{< figure src="/images/pro-sante-1.PNG">}}
@@ -25,7 +25,7 @@ L'envie d'agir pour vous
 
 Permettre aux Français de Shanghai de bénéficier de **formations de qualité aux premiers secours**. Les informer sur leurs droits et leurs devoirs, sur les différents systèmes de santé chinois et étrangers auxquels ils peuvent être affiliés. Inventer ensemble des moyens de prendre en charge les **troubles du langage**, les **suivis psychologiques**, même loin de la France, en développant par exemple la télémédecine ou le regroupement régional de certains services rares. Faciliter la communication entre certains organismes tels que la CFE et ses usagers. Développer des **offres de protection adaptées** à des publics spécifiques tels que les VIE...
 
-Voilà pour moi certains des défis à relever en matière de santé. Voilà pour moi le rôle d’une conseillère consulaire.
+Voilà pour moi certains des défis à relever en matière de santé. **Voilà pour moi le rôle d’une conseillère consulaire**.
 
 Les Français de Shanghai n’ont pas besoin d’assistance. Ils ont quitté leur pays et font preuve d’une grande **capacité d’adaptation**. Ils ont surtout besoin d’être **informés**, d’avoir toutes les cartes pour prendre leur santé en main et faire des choix cohérents en la matière. 
 
