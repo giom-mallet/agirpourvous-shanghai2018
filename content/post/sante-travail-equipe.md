@@ -2,7 +2,7 @@
 title: "La santé : Un travail d'équipe"
 description: "Informer et Innover, je m'y engage"
 date: 2018-06-14T19:33:01+08:00
-draft: true
+#draft: true
 featured_image: "/images/sante-titre.jpg"
 tags: ["Rencontre","idées"]
 ---
