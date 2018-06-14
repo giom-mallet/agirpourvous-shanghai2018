@@ -15,7 +15,7 @@ Une expérience tirée de mon réseau
 
 Depuis mon arrivée, je rencontre régulièrement des professionnels de santé français, chinois ou étrangers, à même de comprendre au mieux les problématiques très spécifiques de nos concitoyens vivant à Shanghai. **Beaucoup d’entre eux m’ont rejoint dans ma campagne**. D’autres le feront certainement. Je les remercie pour leur confiance.
 
-Psychologues, ostéopathe, chiropracteur, responsable d’associations, patients et parents, tous m’apportent une approche **centrée sur l’humain**, bien loin de la réalité de quelques conférenciers assureurs dont le premier des objectifs est le profit.
+Psychologues, ostéopathe, chiropracteur, responsables d’associations, patients et parents, tous m’apportent une approche **centrée sur l’humain**, bien loin de la réalité de quelques conférenciers assureurs dont le premier des objectifs est le profit.
 Bien entendu, l’assurance est un **acteur essentiel de notre protection sociale à l’étranger**. Je ne le répéterai jamais assez : assurez-vous ! Mais la première de mes batailles est la prévention, l’information.
 
 {{< figure src="/images/pro-sante-1.PNG">}}
