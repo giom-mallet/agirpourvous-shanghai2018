@@ -1,6 +1,6 @@
 ---
 title: "La santé: Un travail d'équipe"
-description: "Informer et Innover, je m'y engage."
+description: "Informer et Innover, je m'y engage"
 date: 2018-06-14T19:33:01+08:00
 draft: true
 featured_image: "/images/sante-titre.jpg"
@@ -10,7 +10,7 @@ tags: ["Rencontre","idées"]
 En matière de santé des Français vivant en Chine, deux mots d’ordre : prévention et travail en réseau.
 ===========
 
-Une expérience tirée de mon réseau.
+Une expérience tirée de mon réseau
 -----------
 
 Depuis mon arrivée, je rencontre régulièrement des professionnels de santé français, chinois ou étrangers, à même de comprendre au mieux les problématiques très spécifiques de nos concitoyens vivant à Shanghai. **Beaucoup d’entre eux m’ont rejoint dans ma campagne**. D’autres le feront certainement. Je les remercie pour leur confiance.
@@ -36,7 +36,7 @@ Des défis nombreux pour notre communauté
 
 Sur les problèmes nécessitant un suivi au long cours, il est important de travailler en synergie, à la fois en Chine, mais également au niveau régional et mondial.
 
-Nombreux sont celles et ceux qui désirent s’installer en Chine sur le long terme. Mais Nombreux sont aussi les expatriés qui changent régulièrement de pays et rencontrent des problèmes pour la **continuité de leurs soins**. Nos professionnels de santé basés aux quatre coins du monde doivent pouvoir travailler en réseau, s’entraider, conseiller leurs patients avant leur départ pour une nouvelle destination.
+Nombreux sont celles et ceux qui désirent s’installer en Chine sur le long terme. Mais nombreux sont aussi les expatriés qui changent régulièrement de pays et rencontrent des problèmes pour la **continuité de leurs soins**. Nos professionnels de santé basés aux quatre coins du monde doivent pouvoir travailler en réseau, s’entraider, conseiller leurs patients avant leur départ pour une nouvelle destination.
 
 La santé en expatriation est une question complexe qui engage la **participation de différents acteurs** : assurances bien entendu, mais également consulats, associations, établissements de santé, CFE, et surtout le patient qui doit être au cœur des prises de décisions.
 
