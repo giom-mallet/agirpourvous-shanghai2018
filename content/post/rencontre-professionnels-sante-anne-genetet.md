@@ -5,7 +5,7 @@ date: 2018-06-09T06:45:52+08:00
 draft: false
 aliases: ["/post/rencontre-professionels-sante-anne-genetet/"]
 featured_image: "/images/pro-sante-1.PNG"
-tags: ["Soutien","idées"]
+tags: ["Rencontre","idées"]
 ---
 
 {{< figure src="/images/pro-sante-1.PNG" title="Trouver ensemble des solutions aux problématiques rencontrées dans le secteur médical à Shanghai">}}
