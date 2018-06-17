@@ -12,16 +12,15 @@ Très vite après mon arrivée à Shanghai, **mon engagement bénévole** auprè
 Aux sources de mon engagement
 -------
 
-Qu’ils aient été victimes de violence conjugale, qu’ils aient perdu leur emploi, ou encore eu besoin d’un soutien psychologique, quelques soient leurs difficultés, **nous avons trouvé des solutions** en développant un réseau et des programmes d’entraide (Une Famille à Shanghai, Mini-psy, Mini-ostéo, kiné). Je suis très fière du travail que nous avons accompli.
-
+Qu’ils aient été victimes de violence conjugale, qu’ils aient perdu leur emploi, ou encore eu besoin d’un soutien psychologique, **nous trouvons des solutions** en développant un réseau et des programmes d’entraide (Une Famille à Shanghai, Mini-psy, Mini-ostéo, kiné). Je suis très fière du travail que nous accomplissons.
 
 Pourtant, malgré une détermination sans faille, les ressources et le champs d'action d'une association doivent souvent se concentrer sur une **aide a posteriori**. Dès lors, j’ai pris conscience de la nécessité de m’engager dans un poste permettant de mettre en place une action **d'information et de prévention** pour améliorer en profondeur la vie de tous nos concitoyens.
 
-Une **conseillère consulaire** est également là pour faire **remonter les problématiques de terrain** aux instances dirigeantes afin de trouver collectivement des **solutions pérennes** face aux difficultés de nos compatriotes. En cela, **mon affiliation à La République En Marche** ne pourra que faciliter la mise en relation avec les responsables politiques capables de **faire bouger les lignes**. 
+Une **conseillère consulaire** est également là pour faire **remonter les problématiques de terrain** aux instances dirigeantes afin de trouver collectivement des **solutions pérennes** face aux difficultés de nos compatriotes. En cela, **mon appartenance à La République En Marche** ne pourra que faciliter la mise en relation avec les responsables politiques capables de **faire bouger les lignes**. 
 
 {{< figure src="/images/Officielle-Bios.jpg" title="L'associatif est une force pour une conseillère consulaire">}}
 
-Ainsi **mon engagement associatif** fait de moi une **candidate qualifiée et compétente** pour remplir la fonction de conseillère consulaire.
+Ainsi **mon engagement associatif**, loin d'être un handicap, fait de moi une **candidate qualifiée et compétente** pour remplir la fonction de conseillère consulaire.
 
 Pour lever toute ambigüité sur la **neutralité de Solidarité Shanghai**, je me suis **mise en retrait** de l’association depuis que je suis candidate ; une évidence pour moi, qui tiens à séparer de façon claire convictions politiques et engagement associatif. Ainsi, comme promis dans ma profession de foi, si je deviens Conseillère consulaire, je quitterai mes fonctions de Présidente de Solidarité Shanghai.
 
