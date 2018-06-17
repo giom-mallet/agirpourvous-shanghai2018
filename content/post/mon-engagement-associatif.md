@@ -7,7 +7,7 @@ featured_image: "/images/pexels-photo-262488.jpeg"
 tags: ["Idées"]
 ---
 
-Très vite après mon arrivée à Shanghai, **mon engagement bénévole** auprès de **Solidarité Shanghai** m’a permis de prendre conscience des véritables **difficultés des Français de la région**. Que ce soit pour des raisons médicales, à cause de problèmes financiers, juridiques ou administratifs, nombre de Français de Shanghai sollicitent notre aide. 
+Très vite après mon arrivée à Shanghai, **mon engagement bénévole** auprès de **Solidarité Shanghai** m’a permis de prendre conscience des véritables **difficultés des Français de la région**. Que ce soit pour des raisons médicales, des problèmes financiers, juridiques ou administratifs, nombre de Français de Shanghai sollicitent notre aide. 
 
 Aux sources de mon engagement
 -------
@@ -22,9 +22,9 @@ Une **conseillère consulaire** est également là pour faire **remonter les pro
 
 Ainsi **mon engagement associatif**, loin d'être un handicap, fait de moi une **candidate qualifiée et compétente** pour remplir la fonction de conseillère consulaire.
 
-Pour lever toute ambigüité sur la **neutralité de Solidarité Shanghai**, je me suis **mise en retrait** de l’association depuis que je suis candidate ; une évidence pour moi, qui tiens à séparer de façon claire convictions politiques et engagement associatif. Ainsi, comme promis dans ma profession de foi, si je deviens Conseillère consulaire, je quitterai mes fonctions de Présidente de Solidarité Shanghai.
+Pour lever toute ambigüité sur la **neutralité de Solidarité Shanghai**, je me suis **mise en retrait** de l’association depuis que je suis candidate ; une évidence pour moi qui tiens à séparer de façon claire convictions politiques et engagement associatif. Comme promis dans ma profession de foi, si je deviens Conseillère consulaire, je quitterai mes fonctions de Présidente de Solidarité Shanghai.
 
-Les bureaux changent au gré des mutations des bénévoles mais la mission reste la même. Et **je fais confiance à mes collaborateurs** qui sauront rester dans la droite ligne des objectifs que l’association se fixe depuis le début de sa création en 2009.
+Les bureaux changent au gré des mutations des bénévoles mais la mission reste la même. Et **je fais confiance à mon équipe** qui restera dans la droite ligne des objectifs que l’association se fixe depuis sa création en 2009.
 
 Si vous avez des questions sur mon engagement ou souhaitez des précisions sur le travail formidable qu’accomplit Solidarité Shanghai, n’hésitez pas à me contacter !
 
