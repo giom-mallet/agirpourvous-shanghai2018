@@ -12,7 +12,7 @@ Très vite après mon arrivée à Shanghai, **mon engagement bénévole** auprè
 Aux sources de mon engagement
 -------
 
-Qu’ils aient été victimes de violence conjugale, qu’ils aient perdu leur emploi, ou encore eu besoin d’un soutien psychologique, **l'association trouve des solutions** pour tous ces français en développant un réseau et des programmes d’entraide (Une Famille à Shanghai, Mini-psy, Mini-ostéo, kiné). Je suis très fière du travail que nous accomplissons.
+Qu’ils aient été victimes de violence conjugale, qu’ils aient perdu leur emploi, ou encore eu besoin d’un soutien psychologique, **l'association trouve des solutions** pour tous ces français en développant un réseau et des programmes d’entraide (Une Famille à Shanghai, Mini-psy, Mini-ostéo, kiné). Je suis très fière du travail accompli.
 
 Pourtant, malgré une détermination sans faille, les ressources et le champs d'action d'une association doivent souvent se concentrer sur une **aide a posteriori**. Dès lors, j’ai pris conscience de la nécessité de m’engager dans un poste permettant de mettre en place une action **d'information et de prévention** pour améliorer en profondeur la vie de tous nos concitoyens.
 
