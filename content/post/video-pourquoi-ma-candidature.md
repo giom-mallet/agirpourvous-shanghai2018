@@ -1,12 +1,12 @@
 ---
-title: "Pourquoi je suis candidate"
+title: "Six questions à Marie-Hélène"
 date: 2018-06-18T20:48:01+08:00
 draft: true
 featured_image: "/images/video-teaser.PNG"
 tags: ["idées"]
 ---
 
-Qui es-tu ? Que fais-tu à Shanghai ?
+Qui je suis
 -----
 
  <video controls>
@@ -14,7 +14,7 @@ Qui es-tu ? Que fais-tu à Shanghai ?
 Your browser does not support the video tag.
 </video> 
 
-Pourquoi te présentes-tu ? Pourquoi faut-il voter pour toi ?
+Une évidence
 -----
 
  <video controls>
@@ -22,7 +22,7 @@ Pourquoi te présentes-tu ? Pourquoi faut-il voter pour toi ?
 Your browser does not support the video tag.
 </video> 
 
-Quels seront tes objectifs ? Qui veux tu représenter ?
+Pour tous les Français
 -----
 
  <video controls>
