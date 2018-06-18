@@ -18,7 +18,7 @@ Une évidence
 -----
 
  <video controls>
-  <source src="/video/pouquoi-candidate.mp4" type="video/mp4">
+  <source src="/video/pourquoi-candidate.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
 
