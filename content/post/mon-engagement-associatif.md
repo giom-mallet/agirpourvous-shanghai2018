@@ -1,18 +1,17 @@
 ---
 title: "Mon Engagement Associatif"
-description: "Pour que les choses soient claires"
-date: 2018-06-17T19:21:47+08:00
-draft: true
+description: "Au service des Français de Shanghai depuis mon arrivée"
+date: 2018-06-19T19:21:47+08:00
 featured_image: "/images/pexels-photo-262488.jpeg"
 tags: ["Idées"]
 ---
 
-Très vite après mon arrivée à Shanghai, **mon engagement bénévole** auprès de **Solidarité Shanghai** m’a permis de prendre conscience des véritables **difficultés des Français de la région**. Que ce soit pour des raisons médicales, des problèmes financiers, juridiques ou administratifs, nombre de Français de Shanghai sollicitent notre aide.
+Très vite après mon arrivée à Shanghai, **mon engagement bénévole** auprès de **Solidarité Shanghai** m’a permis de prendre conscience des véritables **difficultés des Français de la région**. Que ce soit pour des raisons médicales, des problèmes financiers, juridiques ou administratifs, nombre de Français de Shanghai sollicitent l'aide de l'association.
 
 Aux sources de mon engagement
 -------
 
-Qu’ils aient été victimes de violence conjugale, qu’ils aient perdu leur emploi, ou encore eu besoin d’un soutien psychologique, **l'association trouve des solutions** pour tous ces français en développant un réseau et des programmes d’entraide (Une Famille à Shanghai, Mini-psy, Mini-ostéo, kiné). Je suis très fière du travail accompli.
+Violence conjugale, perte d’emploi, besoin d’un soutien psychologique, isolement, accident : l’association **trouve des solutions** en développant un réseau et des programmes d’entraide (Une Famille à Shanghai, Mini-psy, Mini-ostéo, kiné). Je suis très fière du travail accompli.
 
 Pourtant, malgré une détermination sans faille, les ressources et le champs d'action d'une association doivent souvent se concentrer sur une **aide a posteriori**. Dès lors, j’ai pris conscience de la nécessité de m’engager dans un poste permettant de mettre en place une action **d'information et de prévention** pour améliorer en profondeur la vie de tous nos concitoyens.
 
