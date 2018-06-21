@@ -2,7 +2,6 @@
 title: "A mes côtés"
 description:  "Mon équipe et mes soutiens"
 date: 2018-06-21T21:26:49+08:00
-draft: true
 featured_image: "/images/visuel-equipe-larem.jpg"
 tags: ["Soutien"]
 ---
