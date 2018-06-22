@@ -59,14 +59,16 @@ Je tiens à remercier également toutes les personnes qui m’ont contactée, qu
 
 {{< figure src="/images/signature.png">}}
 
-
 Comment voter ?
-=====
+------
 
-A l’urne, Dimanche 24 Juin de 8h à 18h au Consulat Général de France :
+A l'urne, Dimanche 24 Juin de 8h à 18h au Consulat Général de France : 
 
-Soho Zhongshan Plaza Bâtiment A - 18ème étage 1055 Zhongshan Xi Lu 200051 Shanghai
+Soho Zhongshan Plaza
+Bâtiment A - 18ème étage
+1055 Zhongshan Xi Lu
+200051 Shanghai
 
 上海市中山西路1055号Soho中山广场A座18楼
 
-Ou par procuration (<a href="http://agirpourvous-shanghai2018.fr/post/procuration-mode-d-emploi/">On vous explique tout !<a>)
+Ou par procuration (<a href="http://agirpourvous-shanghai2018.fr/post/procuration-mode-d-emploi/">On vous explique tout !</a>)
