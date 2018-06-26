@@ -50,7 +50,11 @@ Thierry, Daphné et Timothé ; Ma Lei ; Cynthia et Roméo ; Benjamin, Marguerite
 Mais merci avant tout à vous tous, qui avez choisi de soutenir Marie-Hélène. Cette campagne, nous l’avons faite pour vous et nous sommes fiers de vous avoir à nos côtés : 
 ------
 
+<<<<<<< HEAD
 Alexandre Morin, Martin Godin, Stéphanie Desprat, Victor Martin, Nicolas Monge, Laure Grandjean, Romain Guérel, Guillaume Mallet, Guillaume Rué de Bernadac, Emilie Billon, Michel Bouzignac, Roseline Roucher-Sarrazin, Thierry Martin, Michaël Pagnoux, Sylvie Fondeville, Sylvain Surget, Mathias Assante, Daphné Martin, Valérie Martin, Dimitri Martin, Romain Masson-Mureau, Nadine Stephann, Pascal Gentil,Céline Samee, Laure Desmonts, Claire Wiedenmann, Carole Moda, Philippe Barthelet, Carl Corbel, Yann Morel, Benjamin Marat, Clément Piquet, Géraldine Cavallini, Wody Stemper, Bruno Bensaid, Manon Lefebvre, Marie-Anne Tanguy, Sylvie Tournier, David Cavallini, Anne Boulo, Olivier Rober, René-Karl Robin, Yann Morel, Martine Caron, Mathilde de Turckheim,
+=======
+Alexandre Morin, Martin Godin, Stéphanie De Prat, Victor Martin, Nicolas Monge, Laure Grandjean, Romain Guérel, Guillaume Mallet, Guillaume Rué de Bernadac, Emilie Billon, Michel Bouzignac, Roseline Roucher-Sarrazin, Thierry Martin, Michaël Pagnoux, Sylvie Fondeville, Sylvain Surget, Mathias Assante, Daphné Martin, Valérie Martin, Dimitri Martin, Romain Masson-Mureau, Nadine Stephann, Pascal Gentil,Céline Samee, Laure Desmonts, Claire Wiedenmann, Carole Moda, Philippe Barthelet, Carl Corbel, Yann Morel, Benjamin Marat, Clément Piquet, Géraldine Cavallini, Wody Stemper, Bruno Bensaid, Manon Lefebvre, Marie-Anne Tanguy, Sylvie Tournier, David Cavallini, Anne Boulo, Olivier Rober, René-Karl Robin, Yann Morel, 
+>>>>>>> 9a9a0bbd7f79e89f5051e0063e38d89a66f920d8
 
 Je tiens à remercier également toutes les personnes qui m’ont contactée, qui sont venues me rencontrer, qui ont parlé de moi autour d’elle et relayé mes posts. Je remercie tous ceux qui ont participé au déjeuner de travail sur la santé et aux tables rondes sur entrepreneuriat, les associations et l’éducation, alimentant le débat et la réflexion. Merci, vraiment, à vous tous qui nous avez soutenu de votre belle énergie, de chez vous, en ligne, en personne ; tous vos encouragements nous ont portés et nous ont permis de continuer à avancer avec bienveillance !
 
@@ -58,14 +62,16 @@ Je tiens à remercier également toutes les personnes qui m’ont contactée, qu
 
 {{< figure src="/images/signature.png">}}
 
-
 Comment voter ?
-=====
+------
 
-A l’urne, Dimanche 24 Juin de 8h à 18h au Consulat Général de France :
+A l'urne, Dimanche 24 Juin de 8h à 18h au Consulat Général de France : 
 
-Soho Zhongshan Plaza Bâtiment A - 18ème étage 1055 Zhongshan Xi Lu 200051 Shanghai
+Soho Zhongshan Plaza
+Bâtiment A - 18ème étage
+1055 Zhongshan Xi Lu
+200051 Shanghai
 
 上海市中山西路1055号Soho中山广场A座18楼
 
-Ou par procuration (<a href="http://agirpourvous-shanghai2018.fr/post/procuration-mode-d-emploi/">On vous explique tout !<a>)
+Ou par procuration (<a href="http://agirpourvous-shanghai2018.fr/post/procuration-mode-d-emploi/">On vous explique tout !</a>)

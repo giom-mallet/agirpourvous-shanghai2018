@@ -33,3 +33,17 @@ Your browser does not support the video tag.
 <h2 style="text-align: center;">  Marchons Ensemble ! </h2>
 
 {{< figure src="/images/signature.png">}}
+
+Comment voter ?
+------
+
+A l'urne, Dimanche 24 Juin de 8h à 18h au Consulat Général de France : 
+
+Soho Zhongshan Plaza
+Bâtiment A - 18ème étage
+1055 Zhongshan Xi Lu
+200051 Shanghai
+
+上海市中山西路1055号Soho中山广场A座18楼
+
+Ou par procuration (<a href="http://agirpourvous-shanghai2018.fr/post/procuration-mode-d-emploi/">On vous explique tout !</a>)

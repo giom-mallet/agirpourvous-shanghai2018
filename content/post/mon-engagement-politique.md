@@ -19,7 +19,7 @@ Alors s'agit-il pour autant d'une élection apolitique ?
 
 Bien sûr que non.
 En effet,  dans l'exercice de son mandat, le conseiller consulaire aura à donner son avis à l'aune de ses **valeurs** propres. Quel meilleur indicateur alors de la boussole idéologique d'un candidat que ses préférences politiques ? Quelle meilleure garantie de la cohérence de ses opinions que son affiliation à un parti politique ?
-Sans la dimension politique, comment ne pas craindre que les décisions sur l’attribution des bourses ou des subventions ne se fasse sur la base d'affinités personnelles?
+Sans la dimension politique, comment ne pas craindre que les décisions sur l’attribution des bourses ou des subventions ne se fassent sur la base d'affinités personnelles?
 
 C’est donc pour vous donner une idée claire sur mes futures prises de position que j’affiche mes couleurs politiques. 
 
@@ -39,3 +39,17 @@ Pour réaliser ce projet, dimanche, accordez-moi votre voix.
 <h2 style="text-align: center;"> Marchons Ensemble ! </h2>
 
 {{< figure src="/images/signature.png">}}
+
+Comment voter ?
+------
+
+A l'urne, Dimanche 24 Juin de 8h à 18h au Consulat Général de France : 
+
+Soho Zhongshan Plaza
+Bâtiment A - 18ème étage
+1055 Zhongshan Xi Lu
+200051 Shanghai
+
+上海市中山西路1055号Soho中山广场A座18楼
+
+Ou par procuration (<a href="http://agirpourvous-shanghai2018.fr/post/procuration-mode-d-emploi/">On vous explique tout !</a>)
