@@ -10,6 +10,11 @@ Paginate = 20 # this is set low for demonstrating with dummy content. Set to a h
 googleAnalytics = "UA-120520290-1"
 enableRobotsTXT = true
 
+## Local Website : Uncomment the parameters below to get a Local Website. 
+#relativeURLs = true
+#publishDir = "local/"
+#uglyurls = true
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
